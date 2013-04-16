@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+
+<title>Big State Drugs</title>
+<link rel="stylesheet" type="text/css"/>
+
+
+</head>
+				
+	<style id="text/css"> 	body {font-size: 100%; line-height: 1.5;}</style> 
+
+
+<body style= width: 960px;>
+
+<!-------------------------------- Branding and logo ------------------------------------>
+	
+ <div id="wrapper">	
+		
+		<header>	
+	
+			<div>
+			
+				<div id="logo">
+					<h1 id="logo_excape_hatch"><a href="/" title="Big State Drugs" id="branding&logo" style="text-decoration: none">Big State Drugs</a></h1>
+				</div>
+	
+		
+<!-------------------------------- Main Navigation ------------------------------------->				
+	
+			<nav>
+				<ul id="main_nav">
+					<li><a href="homepage.html">Home</a></li>
+					<li><a href="pharmacy.html">Pharmacy</a></li>
+					<li><a href="menu.html">Menu</a></li> 
+					<li><a href="about.html">About</a></li>
+					<li><a href="contact_us.html">Contact Us</a></li>
+				</ul>
+			</nav>
+	
+		</div>
+	
+	</header>
+	
+<!----------------------------------- Content ------------------------------------------->
